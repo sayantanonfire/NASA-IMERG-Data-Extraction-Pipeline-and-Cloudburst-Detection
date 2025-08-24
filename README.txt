@@ -98,4 +98,7 @@ This tool can help researchers worldwide transform raw satellite data into meani
 
 📌 open-source GitHub repository👉 https://github.com/sayantanonfire/NASA-IMERG-Data-Extraction-Pipeline-and-Cloudburst-Detection.git
 
+Contact Info - sayantanonfire@gmail.com
+LinkedIn- https://www.linkedin.com/in/sayantan-mandal-36a296213/
+
 👉 Let me know if you’d like to collaborate or test it for your region!
