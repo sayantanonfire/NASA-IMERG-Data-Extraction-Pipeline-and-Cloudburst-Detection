@@ -1,6 +1,8 @@
 
 "From NASA Data to Interactive Rainfall Dashboards: A Scalable Pipeline for Localized Precipitation Insights"
 
+Web Dashboard - https://chart-studio.plotly.com/~Sayantan_PhD/3/
+
 🔬 Why this matters
 Climate change is amplifying the frequency and intensity of extreme rainfall events, particularly in sensitive regions like the Himalayas. To study these events, researchers often face challenges:
 
